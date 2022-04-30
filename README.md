@@ -1,5 +1,9 @@
 # MyRidwan.github.io
 
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?color=000000&center=true&vCenter=true&multiline=true&height=85&lines=𝗦𝗰𝗿𝗶𝗽𝘁+𝗥𝗲𝗺𝗼𝗱+𝗕𝘆+Drg+𝗣𝗿𝗼𝗷𝗲𝗰𝘁;𝗪𝗵𝗮𝘁𝘀𝗔𝗽𝗽+085781385825;𝗧𝗲𝗹𝗲𝗴𝗿𝗮𝗺+@Rifan_aje">
+</p>
+
 <div align="center">
   <a href="https://open.spotify.com/artist/0ybwuUCgZWyVzmGaPQxk9B">
     <img src="https://readme-spotify-tingz.vercel.app/api/now-playing">
